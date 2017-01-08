@@ -1,0 +1,15 @@
+{
+    "name": "metaodi/gftexample",
+    "description": "Example for Google Fusion Tables",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stefan Oderbolz",
+            "email": "odi@metaodi.ch"
+        }
+    ],
+    "require": {
+          "google/apiclient": "^2.0"
+    }
+}
