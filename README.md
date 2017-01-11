@@ -1,5 +1,5 @@
-GFTExample
-==========
+GFTExamples
+===========
 
 Examples for Google Fusion Tables. This repository is based on the ["Getting Started" guide of Google's PHP API Client Library](https://developers.google.com/api-client-library/php/start/get_started).
 
