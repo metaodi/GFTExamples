@@ -1,6 +1,6 @@
 {
-    "name": "metaodi/gftexample",
-    "description": "Example for Google Fusion Tables",
+    "name": "metaodi/gftexamples",
+    "description": "Examples for Google Fusion Tables",
     "type": "project",
     "license": "MIT",
     "authors": [
